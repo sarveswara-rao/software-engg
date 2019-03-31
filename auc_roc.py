@@ -10,6 +10,7 @@ from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.model_selection import StratifiedKFold
 
 print("this is a part of se project")
+print("This is stupid")
 # = pd.read_csv('D:\\bda_project\\Final\\Project1\\ibm_churn_prediction.csv')
 np.random.seed(0)
 missing = []
